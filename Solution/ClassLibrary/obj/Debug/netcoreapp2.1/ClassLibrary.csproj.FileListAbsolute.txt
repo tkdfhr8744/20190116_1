@@ -1,0 +1,9 @@
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.deps.json
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\GDC3\source\repos\Solution\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.pdb
