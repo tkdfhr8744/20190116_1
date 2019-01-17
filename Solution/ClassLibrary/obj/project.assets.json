@@ -1117,11 +1117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GDC3\\source\\repos\\Solution\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\GDC3\\source\\repos\\Solution\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\GDC3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GDC3\\source\\repos\\Solution\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

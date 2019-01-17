@@ -12256,11 +12256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GDC3\\source\\repos\\Solution\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\Users\\GDC3\\source\\repos\\Solution\\WebApplication\\WebApplication.csproj",
+      "projectPath": "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\GDC3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GDC3\\source\\repos\\Solution\\WebApplication\\obj\\",
+      "outputPath": "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12279,8 +12279,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\GDC3\\source\\repos\\Solution\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\GDC3\\source\\repos\\Solution\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\GDC3\\Source\\Repos\\tkdfhr8744\\20190116_1\\Solution\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
